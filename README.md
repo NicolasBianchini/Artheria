@@ -187,11 +187,16 @@ Contribuições são bem-vindas! Para contribuir:
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 **Nicolas Bianchini**
 - GitHub: [@NicolasBianchini](https://github.com/NicolasBianchini)
 - Projeto: [Artheria](https://github.com/NicolasBianchini/Artheria)
+
+**Felipe Vargas**
+- GitHub [@vaargasf](https://github.com/vaargasf)
+- Projeto: [Artheria](https://github.com/NicolasBianchini/Artheria)
+
 
 ## 🙏 Agradecimentos
 
